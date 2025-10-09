@@ -102,12 +102,13 @@ Thanks to our contributors! Add yourself via PR or let us do it.
 
 - **Discussions:** [GitHub Discussions](../../discussions)
 - **Newsletter:** Launching November—[sign up (coming soon)]()
-- **Twitter:** [@Techiral](https://twitter.com/Techiral)
+- **Twitter:** [@Techiral_](https://twitter.com/techiral_)
 
 ## 📜 License
 
 Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
 
 ---
+
 
 **⭐ Star, fork, share, and let’s make “free” the default!**
