@@ -11,7 +11,7 @@ _Last updated: October 8, 2025_
 | 🥉 3 | _Reserved_ | Eagle | 0 | 0 | TBD |
 
 ### 🌟 Rising Stars
-- None yet—be the first!
+- rastogiprashant641-ai
 
 ### 🎨 Category Champions
 - Design Guru: _Open_
@@ -53,4 +53,5 @@ Earn badges and we’ll add your name (and profile link) here!
 Legend-level contributions unlock permanent recognition:
 - Listed here forever 🧾
 - Invited to ambassador council 🧠
+
 - Eligible for profit-sharing if we monetize 🎁
