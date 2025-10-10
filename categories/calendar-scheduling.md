@@ -21,6 +21,7 @@ Tools for managing time, bookings, and events—great for solopreneurs juggling 
 | [Outlook](https://outlook.com) | Free personal email and calendar. |
 | [Proton Calendar](https://proton.me/calendar) | A free and private calendar that prioritizes privacy and end to end encryption. |
 | [Tutanota](https://tutanota.com) | An email service that prioritizes privacy. The free plan has restrictions such as a maximum of 1gb of storage, 1 calendar per account, and only 1 email per account with a 48 hour verification period to prevent abuse. |
+| [Cal](https://cal.com/) | A fully customizable scheduling software for individuals, businesses taking calls and developers building scheduling platforms where users meet users. Fully Free & unlimited |
 
 ### 🔧 [Example Resource](https://example.com)
 **What it does:** Placeholder resource.
@@ -29,4 +30,5 @@ Tools for managing time, bookings, and events—great for solopreneurs juggling 
 - Feature 2
 **Best for:** Solopreneurs
 **Use case example:** When you need a placeholder.
+
 **Limitations:** This is a placeholder.
